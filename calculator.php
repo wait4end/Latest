@@ -1,5 +1,5 @@
 <html>
-	<title>Calculator by Latest</title>
+	<title>CalculatorPHP by Latest </title>
 	<body>
 		<form method = "POST" action = "calculator.php">
 		<p align = "center">
