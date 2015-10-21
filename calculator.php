@@ -3,9 +3,9 @@
 	<body>
 		<form method = "POST" action = "calculator.php">
 		<p align = "center">
-			<input type = "text" name = "num1">
+			<input type = "text" name = "num1">	//input first number.
 
-			<select name = "operator">
+			<select name = "operator">		//choose an operator.
 				<option value = "?">Select Operations</option>
 				<option value = "+">+</option>
 				<option value = "-">-</option>
@@ -13,7 +13,7 @@
 				<option value = "/">/</option>
 			</select>
 
-			<input type = "text" name = "num2">
+			<input type = "text" name = "num2">	//input second number.
 		
 			<input type = "submit" name = "Submit" value = "Calculate">
 
