@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "Enter First Number"
-read first
-echo "Number is $first"
+echo "Enter First Number"	#Enter first number
+read first			#read number
+echo "Number is $first"		#show text
 echo "Enter Second Number"
 read second
 echo "Number is $second"
